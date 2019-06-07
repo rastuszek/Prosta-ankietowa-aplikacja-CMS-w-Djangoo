@@ -1,0 +1,29 @@
+li a {
+color: #CC0000;
+}
+
+body {
+background: url("images/niebo.jpg") no-repeat;
+}
+
+h1 {
+color: midnightblue;
+}
+
+.mainbutton {
+width: 200px;
+margin: 0 auto;
+}
+
+.button {
+  font-size: 16px;
+  background-color: #f44336;
+  color: white;
+  border-radius: 5px;
+}
+
+.adminpanel {
+position: absolute;
+left: 42%;
+bottom: 0px;
+}
