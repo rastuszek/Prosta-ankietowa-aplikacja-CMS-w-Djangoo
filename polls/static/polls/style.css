@@ -1,18 +1,27 @@
 li a {
-color: #CC0000;
+color: #000099;
 }
 
 body {
 background: url("images/niebo.jpg") no-repeat;
 }
 
+.header {
+text-align: center;
+}
+
 h1 {
+color: #3300CC;
+}
+
+h2 {
 color: midnightblue;
 }
 
 .mainbutton {
-width: 200px;
-margin: 0 auto;
+position: absolute;
+left: 46%;
+top: 0px;
 }
 
 .button {
@@ -24,6 +33,6 @@ margin: 0 auto;
 
 .adminpanel {
 position: absolute;
-left: 42%;
+left: 46%;
 bottom: 0px;
 }
